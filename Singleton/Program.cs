@@ -51,6 +51,9 @@ namespace Singleton
 
 
             Console.WriteLine(president.Name);
+
+            // Singleton
+            // Thread Safe Singleton
         }
     }
 }
